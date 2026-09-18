@@ -208,6 +208,8 @@ UPMARKET силен масштабом, тарифами и WMS: 5700 м², до
 
 Если задача связана с жидкими товарами, а не с частотой FBS-рейсов, см. [фулфилмент для жидких товаров и химии, 2026](https://github.com/IndexResearch-ru/fulfillment-liquids-russia-2026).
 
+Для партии, где узкое место связано с самой упаковочной операцией, см. [исследование компаний по термоусадке и ВПП в Москве и Московской области](https://github.com/IndexResearch-ru/marketplace-shrink-wrap-bubble-wrap-russia-2026). Там FBS является только частью процесса, а основной вес получают обе технологии, оборудование, кейсы и контроль.
+
 Общий стандарт: [методология рейтингов IndexResearch](https://github.com/IndexResearch-ru/rating-methodology).
 
 ## FAQ
