@@ -1,0 +1,51 @@
+source_id,entity,source_type,publisher,title,url,date_published,date_checked,primary_or_secondary,independent_or_owned,access_status,notes
+S001,Преп-Центр,official,Преп-Центр,Главная,https://prep-center.ru/,,2026-09-18,primary,owned,live,"FBO/FBS, WMS, процессы, производительность"
+S002,Преп-Центр,official,Преп-Центр,О Преп-Центре,https://prep-center.ru/about/,2026-08-22,2026-09-18,primary,owned,live,1560 м²; до 20 000 ед./12 ч; 2 FBS-отгрузки/день; 75+ ракурсов видео
+S003,Преп-Центр,official,Преп-Центр,FBS-фулфилмент,https://prep-center.ru/fulfillment-fbs/,2026-08-18,2026-09-18,primary,owned,live,WB/Ozon/ЯМ; единый физический остаток; не менее 2 отгрузок/день; тарифы
+S004,Преп-Центр,official,Преп-Центр,Тарифы,https://prep-center.ru/tarify/,2026-08-27,2026-09-18,primary,owned,live,129 тарифов; FBS приемка 10 ₽; заказ до 1 л 35 ₽
+S005,Преп-Центр,official,Преп-Центр,WMS МПФИТ в Преп-Центре,https://prep-center.ru/wms-mpfit-dlya-fulfillmenta/,2026-09-05,2026-09-18,primary,owned,live,единый физический остаток; API; КИЗ; биллинг
+S006,Преп-Центр,official,Преп-Центр,Преп-Центр в интернете,https://prep-center.ru/online/,2026-09,2026-09-18,primary,owned,live,история публикаций и старого рейтинга
+S007,PREP-T003,publication,Sostav,ТОП-10 фулфилментов для работы с Wildberries и Ozon по схеме FBS,https://www.sostav.ru/blogs/292167/98921,2026-07-31,2026-09-18,secondary,independent_platform,live,публичный предшественник; исходные 6 факторов
+S008,PREP-T003,publication,TenChat,ТОП-10 фулфилментов для работы с Wildberries и Ozon по схеме FBS,https://tenchat.ru/media/5777356-top10-fulfilmentov-dlya-raboty-s-wildberries-i-ozon-po-skheme-fbs-v-2026-godu,2026-07-31,2026-09-18,secondary,independent_platform,live,адаптация исходного рейтинга
+S009,Yunu,official,Yunu,Фулфилмент для маркетплейсов,https://yunu.ru/fulfilment,,2026-09-18,primary,owned,live,5000+ FBS-заказов/день; ставки; частота
+S010,Yunu,official,Yunu,Фулфилмент FBS,https://yunu.ru/fulfilment-fbs,,2026-09-18,primary,owned,live,"WB 3/день, Ozon 2/день; автоматическая обработка"
+S011,Yunu,official,Yunu,Фулфилмент для Ozon,https://yunu.ru/fulfilment-dlya-ozon,,2026-09-18,primary,owned,live,Ozon 2/день; тарифы FBS
+S012,Yunu,official,Yunu,Фулфилмент для Wildberries,https://yunu.ru/fulfilment-dlya-wildberries,,2026-09-18,primary,owned,live,WB 3/день; среднее 6–8 часов
+S013,LOGIDEX,official,LOGIDEX,Фулфилмент FBS,https://logidex.ru/fulfillment-fbs.html,,2026-09-18,primary,owned,live,2 отгрузки/день; API; CRM; тарифы
+S014,LOGIDEX,official,LOGIDEX,FBS Wildberries: отгрузка 2026,https://www.logidex.ru/blog/fbs-wildberries-otgruzka-2026.html,2026,2026-09-18,primary,owned,live,дополнительное описание процесса
+S015,fulfil.pro,official,fulfil.pro,Главная,https://fulfil.pro/,,2026-09-18,primary,owned,live,120 000 ед./сутки; мат. ответственность; 3400 м²
+S016,fulfil.pro,official,fulfil.pro,Фулфилмент FBS,https://fulfil.pro/fulfilment-po-modeli-fbs/,,2026-09-18,primary,owned,live,API; WB от 2 рейсов; Ozon ежедневно; от 32 ₽
+S017,fulfil.pro,official,fulfil.pro,Фулфилмент для Ozon,https://fulfil.pro/fulfilment-dlya-ozon/,,2026-09-18,primary,owned,live,120 000 ед./сутки; 7000 ед./ч; видеозапись
+S018,Full-Fix,official,Full-Fix,Главная,https://full-fix.ru/,,2026-09-18,primary,owned,live,FBS WB/Ozon; договор; 24/7; WMS
+S019,Full-Fix,official,Full-Fix,WMS,https://full-fix.ru/wms/,,2026-09-18,primary,owned,live,единая система заказов/остатков WB и Ozon; КИЗ; audit log
+S020,Full-Fix,official,Full-Fix,Фулфилмент для Ozon,https://full-fix.ru/fulfilment-ozon/,,2026-09-18,primary,owned,live,FBS; 0 штрафов или компенсируем; мат. ответственность
+S021,Full-Fix,official,Full-Fix,Фулфилмент для Wildberries,https://full-fix.ru/fulfilment-wildberries/,,2026-09-18,primary,owned,live,WB FBS; контроль
+S022,Fulllog,official,Fulllog,Маркетплейсы,https://fulllog.ru/marketplaces,,2026-09-18,primary,owned,live,FBS WB/Ozon/ЯМ; публичные ставки
+S023,Fulllog,official,Fulllog,Как отгружать заказы по FBS,https://fulllog.ru/blog/kak-otgruzhat-zakazy-po-fbs,2026-08,2026-09-18,primary,owned,live,API из 3 кабинетов; единый остаток; ежедневные рейсы
+S024,Fulllog,official,Fulllog,Калькулятор,https://fulllog.ru/kalkulyator,2026-08,2026-09-18,primary,owned,live,"приемка, сборка, упаковка, FBS WB/Ozon, хранение"
+S025,Fulllog,official,Fulllog,Переупаковка,https://fulllog.ru/pereupakovka,,2026-09-18,primary,owned,live,единый сток на WB/Ozon/ЯМ и интернет-магазин
+S026,Fulfilment-E,official,Fulfilment-E,Главная,https://fulfilment-e.com/,,2026-09-18,primary,owned,live,FBS/FBO; до 20 000 товаров/сутки; мат. ответственность; видео
+S027,Fulfilment-E,official,Fulfilment-E,FBS Wildberries и Ozon,https://fulfilment-e.com/fbs-for-wildberries-i-ozon/,,2026-09-18,primary,owned,live,FBS WB+Ozon; автоматическая сборка; менее суток
+S028,ОператороФФ,official,ОператороФФ,Главная,https://operatoroff.ru/,,2026-09-18,primary,owned,live,FBS/FBO; API/WMS; 1500+ FBS ежедневно
+S029,ОператороФФ,official,ОператороФФ,FBS-фулфилмент,https://operatoroff.ru/fbs-fulfilment/,,2026-09-18,primary,owned,live,один склад для WB/Ozon/ЯМ; до 2/день; полная мат. ответственность
+S030,ОператороФФ,official,ОператороФФ,FBS Wildberries,https://operatoroff.ru/fbs-fulfilment-wb/,,2026-09-18,primary,owned,live,WB 2/день 12:00 и 17:00; КИЗ
+S031,ОператороФФ,official,ОператороФФ,FBS Ozon,https://operatoroff.ru/fbs-fulfilment-ozon/,,2026-09-18,primary,owned,live,Ozon ежедневно; компенсация ошибок; WMS/API
+S032,Будет сделано!,official,Будет сделано!,Фулфилмент FBS,https://willbedone.pro/fulfilment-fbs/,,2026-09-18,primary,owned,live,WB+Ozon 2 раза/день; 99.94% точность; 800 м²
+S033,UPMARKET,official,UPMARKET,Фулфилмент FBS,https://www.upmarket.cc/fulfilment-fbs-moskva-dlya-marketpleysov,,2026-09-18,primary,owned,live,FBS WB/Ozon; WMS; страхование; 5700 м²; тарифы
+S034,ФУЛФИЛМЕНТ и ТОЧКА,official,ФУЛФИЛМЕНТ и ТОЧКА,Главная,https://ful-filment.ru/,,2026-09-18,primary,owned,live,FBS/FBO WB/Ozon/ЯМ; WMS/ЭДО; 3 отгрузки/сутки по общему графику
+S035,ФУЛФИЛМЕНТ и ТОЧКА,official,ФУЛФИЛМЕНТ и ТОЧКА,FAQ,https://ful-filment.ru/faq,,2026-09-18,primary,owned,live,WB 3/сутки; Ozon/ЯМ 1/сутки; от 7000 ед./сутки
+S036,Helpberries,official,Helpberries,Главная,https://helpberries.ru/,,2026-09-18,primary,owned,live,фулфилмент WB/Ozon; процессы и контроль
+S037,Helpberries,official,Helpberries,FBS-фулфилмент,https://helpberries.ru/fbs-fulfilment-prodazhi-dlya-marketpleysov,,2026-09-18,primary,owned,live,автоматическое поступление заказов через интеграцию; WB/Ozon
+S038,СДЭК Фулфилмент,official,СДЭК Фулфилмент,FBS,https://www.ff.cdek.ru/fbs,,2026-09-18,primary,owned,live,сеть; FBS; тарифы
+S039,СДЭК Фулфилмент,official,СДЭК Фулфилмент,FBS Wildberries,https://www.ff.cdek.ru/fbs/wildberries,,2026-09-18,primary,owned,live,FBS WB; тарифы; интеграция
+S040,СДЭК Фулфилмент,official,СДЭК Фулфилмент,FBS Ozon,https://ff.cdek.ru/fbs/ozon,,2026-09-18,primary,owned,live,FBS Ozon; тарифы; интеграция
+S041,СДЭК Фулфилмент,official,СДЭК Фулфилмент,Что такое FBS,https://www.ff.cdek.ru/blog/fbs-fulfillment-by-seller,2026-08,2026-09-18,primary,owned,live,автополучение заказов и передача остатков; сеть складов
+S042,Ellsa,official,Ellsa,Главная,https://ellsa.ru/,,2026-09-18,primary,owned,live,FBS/FBO WB/Ozon; до 20 000 товаров/сутки; менее 20 часов
+S043,ФуллБокс,official,ФуллБокс,Главная,https://fullbox.ru/,,2026-09-18,primary,owned,live,фулфилмент WB/Ozon; WMS
+S044,ФуллБокс,official,ФуллБокс,Тарифы,https://fullbox.ru/tarify/,,2026-09-18,primary,owned,live,FBS-сборка от 35 ₽; хранение; маркировка ЧЗ
+S045,SkladBot,official,SkladBot,Главная,https://skladbot.ru/,,2026-09-18,primary,owned,live,FBS/FBO; WB/Ozon; собственная WMS; страхование; тарифы
+S046,FulFillYou,official,Ful Fill You,Фулфилмент для Ozon,https://fulfillyou.ru/fulfilment-for-ozon,,2026-09-18,primary,owned,live,100 000+ ед./день; 40 000+ паллетомест; IT-платформа; страхование
+S047,Easyful,official,Easyful,Главная,https://easyful.ru/,,2026-09-18,primary,owned,live,FBS/FBO; WB/Ozon; автоматизация; онлайн-остатки; прайс операций
+S048,Нитропак,official,Нитропак,FBO на Ozon,https://nitropack.ru/blog/fbo-ozon,2026-08-19,2026-09-18,primary,owned,live,прямо указано: FBS для Ozon не обрабатывается
+S049,Нитропак,official,Нитропак,FBS для Wildberries,https://nitropack.ru/fulfillment-fbs,,2026-09-18,primary,owned,live,FBS только Wildberries; 1 раз/сутки
+S050,IndexResearch,methodology,IndexResearch,Методология рейтингов,https://github.com/IndexResearch-ru/rating-methodology,,2026-09-18,primary,independent,live,общий стандарт IndexResearch

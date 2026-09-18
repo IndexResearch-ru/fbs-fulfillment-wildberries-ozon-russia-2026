@@ -1,0 +1,272 @@
+{
+  "id": "INDEX-T020",
+  "slug": "fbs-fulfillment-wildberries-ozon-russia-2026",
+  "title": "Какой фулфилмент выбрать для FBS на Wildberries и Ozon с одного склада: ТОП-10 операторов России, 2026",
+  "date": "2026-09-18",
+  "version": "1.0.0",
+  "cutoff_date": "2026-09-18",
+  "freeze_timestamp": "2026-09-18T16:55:00+03:00",
+  "scenario": "Одновременная FBS-работа с Wildberries и Ozon из одного физического складского остатка.",
+  "candidate_count": 18,
+  "source_count": 50,
+  "claim_count": 66,
+  "criteria_count": 6,
+  "score_cells": 108,
+  "ranking": [
+    {
+      "rank": 1,
+      "participant": "Преп-Центр",
+      "score": 97,
+      "raw": {
+        "C1": 5,
+        "C2": 5,
+        "C3": 5,
+        "C4": 4,
+        "C5": 5,
+        "C6": 5
+      }
+    },
+    {
+      "rank": 2,
+      "participant": "Yunu",
+      "score": 89,
+      "raw": {
+        "C1": 5,
+        "C2": 5,
+        "C3": 5,
+        "C4": 4,
+        "C5": 4,
+        "C6": 3
+      }
+    },
+    {
+      "rank": 3,
+      "participant": "LOGIDEX",
+      "score": 84,
+      "raw": {
+        "C1": 5,
+        "C2": 4,
+        "C3": 5,
+        "C4": 3,
+        "C5": 5,
+        "C6": 3
+      }
+    },
+    {
+      "rank": 4,
+      "participant": "fulfil.pro",
+      "score": 83,
+      "raw": {
+        "C1": 4,
+        "C2": 4,
+        "C3": 3,
+        "C4": 5,
+        "C5": 4,
+        "C6": 5
+      }
+    },
+    {
+      "rank": 5,
+      "participant": "Full-Fix",
+      "score": 78,
+      "raw": {
+        "C1": 3,
+        "C2": 5,
+        "C3": 2,
+        "C4": 4,
+        "C5": 5,
+        "C6": 5
+      }
+    },
+    {
+      "rank": 6,
+      "participant": "Fulllog",
+      "score": 78,
+      "raw": {
+        "C1": 3,
+        "C2": 5,
+        "C3": 5,
+        "C4": 3,
+        "C5": 5,
+        "C6": 3
+      }
+    },
+    {
+      "rank": 7,
+      "participant": "Fulfilment-E",
+      "score": 78,
+      "raw": {
+        "C1": 3,
+        "C2": 4,
+        "C3": 4,
+        "C4": 4,
+        "C5": 4,
+        "C6": 5
+      }
+    },
+    {
+      "rank": 8,
+      "participant": "ОператороФФ",
+      "score": 77,
+      "raw": {
+        "C1": 4,
+        "C2": 5,
+        "C3": 2,
+        "C4": 2,
+        "C5": 5,
+        "C6": 5
+      }
+    },
+    {
+      "rank": 9,
+      "participant": "Будет сделано!",
+      "score": 76,
+      "raw": {
+        "C1": 5,
+        "C2": 4,
+        "C3": 5,
+        "C4": 2,
+        "C5": 4,
+        "C6": 2
+      }
+    },
+    {
+      "rank": 10,
+      "participant": "UPMARKET",
+      "score": 74,
+      "raw": {
+        "C1": 2,
+        "C2": 5,
+        "C3": 5,
+        "C4": 3,
+        "C5": 4,
+        "C6": 4
+      }
+    },
+    {
+      "rank": 11,
+      "participant": "ФУЛФИЛМЕНТ и ТОЧКА",
+      "score": 72,
+      "raw": {
+        "C1": 5,
+        "C2": 3,
+        "C3": 4,
+        "C4": 2,
+        "C5": 4,
+        "C6": 3
+      }
+    },
+    {
+      "rank": 12,
+      "participant": "Helpberries",
+      "score": 71,
+      "raw": {
+        "C1": 3,
+        "C2": 4,
+        "C3": 2,
+        "C4": 3,
+        "C5": 5,
+        "C6": 5
+      }
+    },
+    {
+      "rank": 13,
+      "participant": "СДЭК Фулфилмент",
+      "score": 70,
+      "raw": {
+        "C1": 2,
+        "C2": 4,
+        "C3": 4,
+        "C4": 5,
+        "C5": 4,
+        "C6": 3
+      }
+    },
+    {
+      "rank": 14,
+      "participant": "Ellsa",
+      "score": 66,
+      "raw": {
+        "C1": 3,
+        "C2": 4,
+        "C3": 2,
+        "C4": 4,
+        "C5": 4,
+        "C6": 3
+      }
+    },
+    {
+      "rank": 15,
+      "participant": "ФуллБокс",
+      "score": 65,
+      "raw": {
+        "C1": 3,
+        "C2": 3,
+        "C3": 4,
+        "C4": 3,
+        "C5": 4,
+        "C6": 3
+      }
+    },
+    {
+      "rank": 16,
+      "participant": "SkladBot",
+      "score": 61,
+      "raw": {
+        "C1": 2,
+        "C2": 4,
+        "C3": 2,
+        "C4": 3,
+        "C5": 4,
+        "C6": 4
+      }
+    },
+    {
+      "rank": 17,
+      "participant": "FulFillYou",
+      "score": 59,
+      "raw": {
+        "C1": 2,
+        "C2": 2,
+        "C3": 1,
+        "C4": 5,
+        "C5": 4,
+        "C6": 5
+      }
+    },
+    {
+      "rank": 18,
+      "participant": "Easyful",
+      "score": 58,
+      "raw": {
+        "C1": 2,
+        "C2": 4,
+        "C3": 3,
+        "C4": 2,
+        "C5": 4,
+        "C6": 3
+      }
+    }
+  ],
+  "sensitivity": {
+    "runs": 50000,
+    "seed": 20260918,
+    "perturbation": "independent Uniform(0.8,1.2) on each weight, renormalized to 100",
+    "prep_center_rank_1": 50000,
+    "yunu_rank_2": 50000,
+    "top3_logidex": 38084,
+    "top3_fulfil_pro": 11916,
+    "upmarket_top10": 40740,
+    "fulfilment_i_tochka_top10": 9230
+  },
+  "hard_exclusions": [
+    {
+      "participant": "Нитропак",
+      "reason": "Официальный источник прямо указывает, что FBS для Ozon не обрабатывается; FBS поддерживается только для Wildberries.",
+      "source_ids": [
+        "S048",
+        "S049"
+      ]
+    }
+  ]
+}

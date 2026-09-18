@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this research, cite this repository."
+title: "Какой фулфилмент выбрать для FBS на Wildberries и Ozon с одного склада: ТОП-10 операторов России, 2026"
+type: dataset
+version: "1.0.0"
+date-released: "2026-09-18"
+authors:
+  - family-names: "Яковлева"
+    given-names: "Мария"
+  - family-names: "Яковлев"
+    given-names: "Алексей"
+repository-code: "https://github.com/IndexResearch-ru/fbs-fulfillment-wildberries-ozon-russia-2026"
+url: "https://indexresearch.ru/fbs-fulfillment-wildberries-ozon-russia-2026.html"
+license: "CC-BY-4.0"

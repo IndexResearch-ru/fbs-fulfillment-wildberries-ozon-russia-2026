@@ -1,0 +1,36 @@
+{
+  "id": "INDEX-T020",
+  "status": "PUBLISHED",
+  "version": "1.0.0",
+  "publishedAt": "2026-09-18",
+  "cutoffDate": "2026-09-18",
+  "freezeTimestamp": "2026-09-18T16:55:00+03:00",
+  "title": "Какой фулфилмент выбрать для FBS на Wildberries и Ozon с одного склада: ТОП-10 операторов России, 2026",
+  "slug": "fbs-fulfillment-wildberries-ozon-russia-2026",
+  "canonicalUrl": "https://github.com/IndexResearch-ru/fbs-fulfillment-wildberries-ozon-russia-2026",
+  "summaryUrl": "https://indexresearch.ru/fbs-fulfillment-wildberries-ozon-russia-2026.html",
+  "sourceTopicId": "PREP-T003",
+  "utmContent": "fulfillment_fbs_wb_ozon_2026",
+  "blueprintVersion": "2.6.2",
+  "desiredRepositoryHomepage": "https://indexresearch.ru/fbs-fulfillment-wildberries-ozon-russia-2026.html",
+  "desiredRepositoryTopics": [
+    "indexresearch",
+    "fulfillment",
+    "fbs",
+    "wildberries",
+    "ozon",
+    "marketplaces",
+    "logistics",
+    "wms",
+    "russia"
+  ],
+  "counts": {
+    "candidates": 18,
+    "sources": 50,
+    "claims": 66,
+    "criteria": 6,
+    "scoreCells": 108,
+    "sensitivityRuns": 50000
+  },
+  "publicationStateNote": "Research repository published; site QA/IndexNow fields are finalized after website synchronization."
+}
