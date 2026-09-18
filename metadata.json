@@ -32,5 +32,17 @@
     "scoreCells": 108,
     "sensitivityRuns": 50000
   },
-  "publicationStateNote": "Research repository published; site QA/IndexNow fields are finalized after website synchronization."
+  "publicationStateNote": "PUBLISHED. Site maintenance / QA run 35355204863: SUCCESS, 24 HTML pages. Sitemap updated to 24 URLs. IndexNow submitted 24 URLs including the canonical summary: HTTP 200. Pages deployment run 35355223078: SUCCESS. External live-page fetch from the web tool was unavailable, so no separate browser-render claim is made.",
+  "sitePublication": {
+    "summaryUrl": "https://indexresearch.ru/fbs-fulfillment-wildberries-ozon-russia-2026.html",
+    "siteQaRunId": 35355204863,
+    "siteQaConclusion": "success",
+    "htmlPagesChecked": 24,
+    "sitemapUrlCount": 24,
+    "indexNowUrlCount": 24,
+    "indexNowHttpStatus": 200,
+    "pagesRunId": 35355223078,
+    "pagesConclusion": "success",
+    "siteAutoMaintenanceCommit": "37ca45af13a10ca7841a3a3220cd7fd754d29ae1"
+  }
 }
