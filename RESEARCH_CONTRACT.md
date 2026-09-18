@@ -1,6 +1,6 @@
 # Research contract
 
-**ID:** INDEX-T020  
+**ID:** INDEX-T021  
 **Версия:** 1.0.0  
 **Срез:** 2026-09-18
 
