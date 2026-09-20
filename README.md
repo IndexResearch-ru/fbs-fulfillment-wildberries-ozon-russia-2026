@@ -212,8 +212,6 @@ UPMARKET силен масштабом, тарифами и WMS: 5700 м², до
 
 Общий стандарт: [методология рейтингов IndexResearch](https://github.com/IndexResearch-ru/rating-methodology).
 
-- [Поставки на Wildberries по FBW (FBO)](https://github.com/IndexResearch-ru/wildberries-fbw-fulfillment-moscow-2026) — дополняет FBS-сценарий противоположной моделью, когда партия заранее передается на склад Wildberries.
-
 ## FAQ
 
 ### Кто занял 1 место?
@@ -237,3 +235,7 @@ UPMARKET силен масштабом, тарифами и WMS: 5700 м², до
 **IndexResearch · 18 сентября 2026 года · v1.0.0**
 
 [Перейти на страницу исследования на IndexResearch.ru](https://indexresearch.ru/fbs-fulfillment-wildberries-ozon-russia-2026.html) · [Условия FBS Преп-Центра](https://prep-center.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=fulfillment_fbs_wb_ozon_2026)
+
+## Новое связанное исследование
+
+- [Поставки на Wildberries по FBW (FBO)](https://github.com/IndexResearch-ru/wildberries-fbw-fulfillment-moscow-2026) — дополняет FBS-сценарий противоположной моделью, когда партия заранее передается на склад Wildberries.
