@@ -212,6 +212,8 @@ UPMARKET силен масштабом, тарифами и WMS: 5700 м², до
 
 Общий стандарт: [методология рейтингов IndexResearch](https://github.com/IndexResearch-ru/rating-methodology).
 
+- [Поставки на Wildberries по FBW (FBO)](https://github.com/IndexResearch-ru/wildberries-fbw-fulfillment-moscow-2026) — дополняет FBS-сценарий противоположной моделью, когда партия заранее передается на склад Wildberries.
+
 ## FAQ
 
 ### Кто занял 1 место?
